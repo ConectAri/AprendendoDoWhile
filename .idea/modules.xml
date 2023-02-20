@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AprenderDoWhile.iml" filepath="$PROJECT_DIR$/.idea/AprenderDoWhile.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AprenderDoWhile.iml" filepath="$PROJECT_DIR$/AprenderDoWhile.iml" />
     </modules>
   </component>
 </project>
